@@ -1,0 +1,7 @@
+{
+    "userId": 111,
+    "name": "John Smith",
+    "dob": "12/12/2000",
+    "email": "john.smith@gmail.com",
+    "pfphoto": "../user.png"
+}
